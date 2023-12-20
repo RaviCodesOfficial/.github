@@ -1,6 +1,8 @@
 # Ravi Codes
 
-<img src="../img/banner.png" alt="Ravi Codes">
+<img src="../img/banner.png">
+
+<br>
 
 Welcome to the official GitHub account of Ravi Codes.
 
