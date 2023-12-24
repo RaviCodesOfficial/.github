@@ -1,6 +1,6 @@
 # Ravi Codes
 
-<img src="../img/banner.png">
+![Ravi Codes](https://raw.githubusercontent.com/RaviCodes-on-GitHub/.github/main/img/banner.png)
 
 <br>
 
